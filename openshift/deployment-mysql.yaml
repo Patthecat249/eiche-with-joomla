@@ -1,0 +1,2 @@
+# This Deployment rolls the Database-Backend for Joomla
+# This must run, before Joomla Frontend can access it
